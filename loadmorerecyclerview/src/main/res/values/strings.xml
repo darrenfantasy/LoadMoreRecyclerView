@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">loadmorerecyclerview</string>
+    <string name="nomore">加载完毕</string>
+</resources>
